@@ -3,3 +3,4 @@ function argumentsLength(args) {
         args[i] + 1;
     }
 }
+// function is not quite working. Expected 1 for [5], but returning undefined
