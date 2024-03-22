@@ -11,9 +11,14 @@ def checkArguments(args):
     counter = 0
     for i in args:
         # is i a list?
+        print(type(i))
         if type(i) != list:
+            print(f"\tnot list {type(i)}")
             counter += 1
+    print(counter)
     return counter
+
+checkArguments(args)
 
 
 
