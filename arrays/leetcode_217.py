@@ -3,10 +3,10 @@ class Solution:
         checking_nums = set()
         # iterate through nums
         for num in nums:
-        # append each number to checking_nums
         # check if that number is already in checking_nums
             if num in checking_nums:
                 return True
+        # append each number to checking_nums
             else:
                 checking_nums.add(num)
             # if num not in checking_nums:

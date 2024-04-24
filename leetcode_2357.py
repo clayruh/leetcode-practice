@@ -1,0 +1,3 @@
+def minimumOperations(nums):
+        
+    return
