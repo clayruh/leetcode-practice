@@ -1,5 +1,5 @@
 class Solution:
-    def nearestValidPoint(self, x: int, y: int, points: List[List[int]]) -> int:
+    def nearestValidPoint(self, x: int, y: int, points) -> int:
 # hashmapping the index of a valid point to the Manhattan distance, to eventually find the smallest
 
 # initialize dictionary
