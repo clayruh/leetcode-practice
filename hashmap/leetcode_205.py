@@ -1,4 +1,4 @@
-def isIsomorphic():
+def isIsomorphic(s,t):
 # initiate dictionary, O(1) runtime
     isomorphic_dict = {}
     letters_seen = set()

@@ -5,8 +5,8 @@ import collections
 {"s":1,
  "a":4,
  "b":2,
-"c":1,
-"g":1,
+ "c":1,
+ "g":1,
  }
 
 def isAnagram(s,t):
