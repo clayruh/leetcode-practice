@@ -1,4 +1,3 @@
-class Solution(object):
-    def arrayRankTransform(self, arr):
+def arrayRankTransform(arr):
         
         return
