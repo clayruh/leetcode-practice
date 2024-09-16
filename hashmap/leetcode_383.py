@@ -1,6 +1,6 @@
 
 def canConstruct(ransomNote, magazine) -> bool:
-#     # 4:06
+#     # 4:06 - took abt two hours to figure out
 #     # not all letters of magazine have to be used in ransomNote
 #     # do the letters in magazine have to be in order in ransomNote too? (not sure)
 
